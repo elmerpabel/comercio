@@ -1,0 +1,33 @@
+{
+	"products" : [
+		{
+			"name" : "Polo T-shirt",
+			"price" : "20.99",
+			"options" : [
+				{ "Size" : "Small,Medium,Large" }
+			],
+			"image" : "http://upload.wikimedia.org/wikipedia/commons/c/c6/Grey_Tshirt.jpg",
+			"description" : "Actualizado por Elmer This is a very awesome grey T-shirt"
+		},
+		{
+			"name" : "Camiseta T-shirt",
+			"price" : "20.99",
+			"options" : [
+				{ "Size" : "Small,Medium,Large" },
+				{ "Color" : "Blue,Red" },
+			    { "OneOfAKind" : true }
+			],
+			"image" : "http://upload.wikimedia.org/wikipedia/commons/2/24/Blue_Tshirt.jpg",
+			"description" : "Actualizado por Elmer This is a really cool blue T-shirt"
+		},
+		{
+			"name" : "Souvenir T-shirt",
+			"price" : "20.99",
+			"options" : [
+				{ "Size" : "Small,Medium,Large" }
+			],
+			"image" : "http://upload.wikimedia.org/wikipedia/commons/c/c6/Grey_Tshirt.jpg",
+			"description" : "Actualizado por Elmer This is another fun grey T-shirt"
+		}
+	]
+}
